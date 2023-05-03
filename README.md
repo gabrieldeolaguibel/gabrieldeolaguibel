@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.linkpicture.com/q/Black-Yellow-And-Green-Modern-Sales-Manager-LinkedIn-Article-Cover-Image.png" alt="Gabriel de Olaguibel's Banner" width="70%">
+  <img src="https://www.linkpicture.com/q/Black-Yellow-And-Green-Modern-Sales-Manager-LinkedIn-Article-Cover-Image.png" alt="Gabriel de Olaguibel's Banner" width="90%">
 </p>
 
 <h1 align="center">Hello, I'm Gabriel de Olaguibel 👋</h1>
