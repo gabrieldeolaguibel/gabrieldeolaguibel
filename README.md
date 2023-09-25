@@ -20,6 +20,7 @@
 
 - Azure Fundamentals
 - Azure AI Fundamentals
+- IBM Accelerate Software Development
 - Celonis Process mining fundamentals
 - IE Coding and Big data SQL
 
