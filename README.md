@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://www.linkpicture.com/q/Black-Yellow-And-Green-Modern-Sales-Manager-LinkedIn-Article-Cover-Image.png" alt="Gabriel de Olaguibel's Banner" width="100%">
+  <img src="https://i.ibb.co/RQypWkS/Black-Yellow-And-Green-Modern-Sales-Manager-Linked-In-Article-Cover-Image-1.png" alt="Gabriel de Olaguibel's Banner" width="100%">
 </p>
 
-<h1 align="center">Hello, I'm Gabriel de Olaguibel 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrieldeolaguibel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
