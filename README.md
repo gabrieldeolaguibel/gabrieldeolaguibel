@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrieldeolaguibel&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
+</p>
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/gabrieldeolaguibel/gabrieldeolaguibel/main/profile-summary-card-output/github_dark/0-profile-details.svg">
